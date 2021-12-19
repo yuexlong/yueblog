@@ -1,1 +1,4 @@
-yueblog/settings.py
+/yueblog/settings.py
+/settings
+/yueblog/__pycache__
+/db.sqlite3
